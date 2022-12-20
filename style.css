@@ -1,0 +1,37 @@
+body{
+    background-color: blanchedalmond;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+#rc
+{
+    border-radius:30px;
+    margin-left: 75px;
+    margin-right:375;
+}
+
+#d
+{
+    border-radius:30px;
+    margin-left: 300px;
+    margin-right: 30px;;
+}
+#c
+{
+    border-radius:30px;
+}
+#cny
+{
+    border-radius:30px;
+    margin-left: 75px;
+    margin-right: 375px;;
+}
+#e
+{
+    border-radius:30px;
+    margin-left: 300px;
+    margin-right: 50px;;
+}
+#dotd
+{
+    border-radius:30px;
+}
